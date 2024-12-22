@@ -1,0 +1,2 @@
+rootProject.name = 'pay-manager-haxgon'
+include ':api-core', ':customer-register'
